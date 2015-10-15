@@ -1,0 +1,19 @@
+// ==============================================
+// Logo image replacement styles
+// ==============================================
+
+.logo {
+    background-image: url(/images/logo.svg);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: rem(200px 30px);
+    color: transparent;
+    display: inline-block;
+    font: 0/0 a;
+    height: rem(30px);
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    text-shadow: none;
+    width: rem(200px);
+}
