@@ -1,16 +1,17 @@
 # FrontendGems :: Project Boilerplate
 
-FrontendGems is a collection of carefully crafted web components, forged by
-the world's finest frontend developers. It aims to be a home for creative
-collaborators who want to solve real world problems with the most elegant
-solution.
+[FrontendGems](http://frontendgems.com/) is a collection of carefully crafted
+web components, forged by the world's finest frontend developers. It aims to
+be a home for creative collaborators who want to solve real world problems
+with the most elegant solution.
 
 -------------------------------
 
 This is the FrontendGems boilerplate project. All gem projects should be based
 off this repository.
 
-<Add a link to the write up on [frontendgems.com](http://frontendgems.com)>
+For more details about FrontendGems and this boilerplate, you can read the blog
+post about it [here](http://frontendgems.com/blog/html-css-boilerplate/).
 
 ## Installation
 
@@ -18,17 +19,21 @@ Clone this repository:
 
 `git clone https://github.com/alexpriceonline/frontendgems-boilerplate.git`
 
-## Run
+Open directory:
+
+`cd frontendgems-boilerplate`
 
 Get the npm packages:
 
 `npm install`
 
-Run the gulp build process:
+## Run
+
+In one terminal tab run the gulp build process:
 
 `gulp`
 
-Serve the files, I use a Python simple HTTP server:
+In another terminal tab serve the files, I use a Python simple HTTP server:
 
 `python -m SimpleHTTPServer 8000`
 
@@ -50,12 +55,14 @@ the bottom of the CSS block_.
 
 ## Change log
 
-* __13 Oct 15:__ _Initial boilerplate setup_
+* __13 Oct 15:__ Initial boilerplate setup
+* __20 Oct 15:__ Updated README
 
 ## Support
 
 Please [open an issue](https://github.com/alexpriceonline/frontendgems-boilerplate/issues/new)
-for support.
+if appropriate, or contact [Alex](http://twitter.com/alexpriceonline/) on
+Twitter.
 
 ## Contributing
 
