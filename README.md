@@ -57,6 +57,8 @@ the bottom of the CSS block_.
 
 * __13 Oct 15:__ Initial boilerplate setup
 * __20 Oct 15:__ Updated README
+* __22 Oct 15:__ Moved base module, removed FrontendGem chrome and added a link
+to the blog post
 
 ## Support
 
