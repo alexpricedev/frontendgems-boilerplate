@@ -59,7 +59,8 @@ the bottom of the CSS block_.
 * __20 Oct 15:__ Updated README
 * __22 Oct 15:__ Moved base module, removed FrontendGem chrome and added a link
 to the blog post
-* __29 Jan 16:__ Removed unnecessary code surrounding footer and logo
+* __29 Jan 16:__ Removed unnecessary code surrounding footer and logo and added
+`src/js` directory
 
 ## Support
 
